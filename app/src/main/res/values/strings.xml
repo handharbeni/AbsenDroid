@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AbsenDroid</string>
+    <string name="key">SATULIMAKALI</string>
+    <string name="server">http://rumat.co.id</string>
+</resources>

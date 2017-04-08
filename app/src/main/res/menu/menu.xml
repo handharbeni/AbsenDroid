@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/MenuPertama"
+        android:title="Menu Pertama"
+        android:icon="@drawable/common_full_open_on_phone"></item>
+    <item
+        android:id="@+id/MenuKedua"
+        android:title="Menu Kedua"
+        android:icon="@drawable/common_full_open_on_phone"></item>
+</menu>

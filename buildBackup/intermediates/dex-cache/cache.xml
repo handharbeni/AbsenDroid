@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/preference-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9078293943d0cf69b4111b7c141456b522a463c1">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-preference-v7-25.1.1_17d0486c49bee6a6c3291c83f406951acd693cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.jrvansuita/IconHandler/v2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6dbd313cdd1181794a956a3cb5522dd61a6ee1b6">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.jrvansuita-IconHandler-v2.0.0_6d5dd4c2c7115a2086dd93fd24f26cc7e4ae6946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.zookey/universalpreferences/0.0.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81ba2f4b6055a1224404c26281243a2576689907">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.zookey-universalpreferences-0.0.4_806b9e3612731fb43dd0d01b270b4cf542885fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.androidadvance/topsnackbar/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb3cf97748344da6fad1deb830c7c479a7c53645">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.androidadvance-topsnackbar-1.1.1_ccee5966381470cf1d31bcc266058d9b10d8bdc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_f85aaa3349b3fcf4dcdae04595b791154fd49a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b64dd5f01bc37de289f90fd59299b0c76d119611">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.getkeepsafe.relinker-relinker-1.2.2_ce684bc51a10b0f3f4cc008277b42a46c56bc74d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/library-2.4.0_966625304e7208badec13abab7a99ab1be33bd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_bfbefcbf34815dc9a256563801da8749727b181d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/gr.pantrif/easy-android-splash-screen/0.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c346058854421b89e04449a5c416673c0b9f11f2">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/gr.pantrif-easy-android-splash-screen-0.0.1_25113596d41ff32bce0190a4b04dff2571be4572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.akhgupta/android-easylocation/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7d9d8d41e629e05846d70e927b18f5166944296">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.akhgupta-android-easylocation-1.0.1_d4fd5a3dfbb00f41f1490f70973ee6c9dff4f8a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.tarun0.zxing-standalone/zxing-standalone/1.0.0/jars/libs/core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b9a791ca04f7ff14dceda27389818bc3e84880c">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/core-3.2.1_2fa411b7a38b3bb95066027ea8cb68554c5f2f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.jrvansuita/MaterialAbout/v0.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0365350a86dfef45bc036d8645b70aae857c40cf">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.jrvansuita-MaterialAbout-v0.0.5_e8cd1c96167d95628474364c9d15ec8ddb4ad481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_26a0ce59b0a92d128edb89459072b2212a5eb419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_bff2730741ddd2a36180dbe46c349f61a454aa88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f259f70a9c5f04d73cdd421cec30a8d4ffd3ca77">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/instant-run_c53a5b1073a1f8a6e3cf709448a6873cd551da88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.rubensousa/raiflatbutton/0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a26732b3684179d67fed7a5cfb7a1bc74f764bf">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.rubensousa-raiflatbutton-0.1_68213ba081b8181067795beee22a9f5b8b62355a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/eventbus-3.0.0_75d7e9df513c42eca37520f56c55d61fd8448c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.4.0_0c88907d0efb2bf017e3f2c4bce9b4671846665a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.malinskiy/superrecyclerview/1.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a9ee7bc61bec4070d7412c7ea45968eef3b7d9b">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.malinskiy-superrecyclerview-1.1.4_78aa66a777172d74ab419242e82aec0a16da253d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_a77fb5f584e734583d2b4db1a9b85e8bc27cce7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_2c749acf08de8a48da80972f031b7a9f48826841.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.nisrulz/qreader/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbbba3adcc22e51c92f10f9f6667bfee15871c6f">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.nisrulz-qreader-2.0.0_881ae793c0dc8ed85a957b70508a3728ebc05566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.pddstudio/encrypted-preferences/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0e2c2a683712d1c2c82d88445c970b8f373d6e3">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.pddstudio-encrypted-preferences-1.3.0_5e4b49aa7d5d03c4971e1a0f1e9580cd8561dbbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/glide-3.7.0_ac342f17260710fcdf4b2d129687098a64b8d47c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.tarun0.zxing-standalone/zxing-standalone/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c12b35f14f39fe7889201f2afaff87c445531b85">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.tarun0.zxing-standalone-zxing-standalone-1.0.0_0d3f285d0ecbd5fc13966c346cfa3090e504a40b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_40ded5582a827939e7a9522cdceba4284508c397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/sexy.code/httpizza/0.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09bc77ed1d11967f57bd58b06535bcade54f875f">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/sexy.code-httpizza-0.3.0_d88b01d28d1a5c911b38957be5310032325bc327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.liuguangqiang.ripplelayout/library/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71c0eb292ccedac006a2e8c3a66473fa569f1e86">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.liuguangqiang.ripplelayout-library-0.1.0_b66c4d9f962caddaa20b694a39ac3235e8ca5287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.0_5cd883463d7c98abd693a9baf416faf81af98503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_2eaae358c88b94cc98061a5b101b206e992befc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/2.3.1/1c1c75a7e1dfee58c51822987dc658f93e036c81/realm-annotations-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c1c75a7e1dfee58c51822987dc658f93e036c81">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/realm-annotations-2.3.1_8d87e8481f249ffd665fc17c311aff1748d9dca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.0_d5f442d3335647c1f4f1cea1a08d1243d53fe0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.mindorks/placeholderview/0.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c9b24e36f5771a43262cfb38b747366f0adf5ea">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.mindorks-placeholderview-0.6.1_588e4b9e6b1d659da0ff711e337651fe4750d509.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/okio-1.9.0_61317ede12103cd723b266cfd2824f556ff815be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.flipkart-incubator/okhttp-stats/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bea106e4a9715d83beb51f9a8d024d6e43ee3c0e">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.flipkart-incubator-okhttp-stats-1.1.1_38fac8102f52270269bdc1da4a84d2b0e39ee8b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.stephentuso/welcome/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab75e50dc0ead705e06e923bcbb41803633a885c">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.stephentuso-welcome-1.1.1_738a6f0c25d33a998ef88b64ba2cbcbc3eaeba05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.KingsMentor/MobileVisionBarcodeScanner/v1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="787bf4bc19d3677e90eff078445a734dabec936f">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.KingsMentor-MobileVisionBarcodeScanner-v1.2_d77e6f04d7692350e1712efaaee40cdf4c1ff402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.github.clans-fab-1.6.4_a524072189a72dc5c3f72604582991e771208bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.0_28ccc91514092dd3657b0f708ee5529ad808b295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.0_6ea3f7c47b02260a13a887f471269fd0240f39c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_5b82f799717220580038e1eb239eb785fe6236fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c65b1734a23488179ead3e3efa1e00222d5b708">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_382640558a837c0676ca91811fa4e45f13173911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_55fef713d16d6dfbe471ee566326c316e51a216d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.rengwuxian.materialedittext-library-2.1.4_aa3b3841f87b611c4ff0f81c097e0e7b462f3ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/io.realm/realm-android-library/2.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="205155180b7747a96c076484ba0014e4bcacb33d">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/io.realm-realm-android-library-2.3.1_b5b68bc19d03d757b53b5c6a422f263887d55782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_9f00d9a9ebb0846480cac8aa4670b2350a330dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_e2ee75938e31b4378aae47b89f24c6c036fe448b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_172ed590ed5ac4eefe8a0a44d90306b347dda32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.edwardvanraak/MaterialBarcodeScanner/0.0.6-ALPHA/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="52734af07d103e5251d63f18ff9d88aa94a16425">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.edwardvanraak-MaterialBarcodeScanner-0.0.6-ALPHA_f9fe1779583ad6c661dba60011234b66ff03a425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.scottyab/aescrypt/0.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439f1fa08fbc88d31ffdb11d80a13211689da6aa">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.scottyab-aescrypt-0.0.1_94761f84e61eddf38845b39473385ff1b6d842d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/mhandharbeni/androidProjects/AbsenDroid/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.1.1_d6efc880eb40274f2a8d72488849e9d5e0f5632f.jar" />
+    </item>
+
+</items>

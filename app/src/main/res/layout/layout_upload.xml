@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+    <RelativeLayout
+        android:visibility="visible"
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="TOTAL DATA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="17dp"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView" />
+
+        <TextView
+            android:text="12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/totalData"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="11dp" />
+
+        <TextView
+            android:text="DATA BELUM TERUPLOAD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="29dp"
+            android:id="@+id/textView3"
+            android:layout_below="@+id/totalData"
+            android:textColor="@android:color/white"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:id="@+id/totalDataUpload"
+            android:layout_below="@+id/textView3"
+            android:textColor="@android:color/white"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:text="UPLOAD"
+            android:textColor="@android:color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/totalDataUpload"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="56dp"
+            android:id="@+id/btnUploadData" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/secondLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--android:background="@drawable/bg_a"-->
+        android:layout_width="130dp"
+        android:layout_height="130dp" />
+        <cn.fanrunqi.waveprogress.WaveProgressView
+            android:id="@+id/waveProgressbar"
+            android:background="@drawable/ic_cloud"
+            android:layout_width="130dp"
+            android:layout_height="130dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="174dp" />
+    </RelativeLayout>
+
+    <include layout="@layout/menu"/>
+
+</RelativeLayout>
