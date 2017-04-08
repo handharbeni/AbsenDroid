@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-0.1.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.liuguangqiang.ripplelayout/library/0.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.liuguangqiang.ripplelayout/library/0.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liuguangqiang.ripplelayout/library/0.1.0/fae66870a8d2b2b6dcf7e7228a2555b9c1729bb8/library-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

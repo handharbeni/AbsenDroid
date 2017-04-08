@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="httpizza-0.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sexy.code/httpizza/0.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/sexy.code/httpizza/0.3.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/sexy.code/httpizza/0.3.0/49d5729709c375ed19ad5f0ce588f56a38d65965/httpizza-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-easylocation-1.0.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.akhgupta/android-easylocation/1.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.akhgupta/android-easylocation/1.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.akhgupta/android-easylocation/1.0.1/10ca2d65eb914b9bde2ddf79c246aeb0385ddee1/android-easylocation-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
